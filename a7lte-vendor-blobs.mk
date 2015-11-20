@@ -270,4 +270,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a7lte/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
     vendor/samsung/a7lte/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/samsung/a7lte/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/samsung/a7lte/proprietary/lib/libcommon_time_client.so:system/lib/libcommon_time_client.so
+    vendor/samsung/a7lte/proprietary/lib/libcommon_time_client.so:system/lib/libcommon_time_client.so \
+    vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.mdt:system/vendor/firmware/keymaster/keymaster.mdt
