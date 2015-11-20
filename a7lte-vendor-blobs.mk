@@ -275,4 +275,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.b03:system/vendor/firmware/keymaster/keymaster.b03 \
-    vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.mdt:system/vendor/firmware/keymaster/keymaster.mdt
+    vendor/samsung/a7lte/proprietary/vendor/firmware/keymaste.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
+    vendor/samsung/a7lte/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
+    vendor/samsung/a7lte/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so
