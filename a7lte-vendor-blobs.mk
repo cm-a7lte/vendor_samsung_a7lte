@@ -245,6 +245,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a7lte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/a7lte/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/a7lte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/a7lte/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/a7lte/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/a7lte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/a7lte/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
