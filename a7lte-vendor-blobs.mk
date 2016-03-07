@@ -25,9 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a7lte/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/samsung/a7lte/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/samsung/a7lte/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
-    vendor/samsung/a7lte/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/samsung/a7lte/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
-    vendor/samsung/a7lte/proprietary/lib/hw/audio.tms.default.so:system/lib/hw/audio.tms.default.so \
     vendor/samsung/a7lte/proprietary/lib/libSamsungPreProcess.so:system/lib/libSamsungPreProcess.so \
     vendor/samsung/a7lte/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
     vendor/samsung/a7lte/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
